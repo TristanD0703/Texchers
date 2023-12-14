@@ -20,7 +20,7 @@ Once the program runs, the beginning stage of the board is displayed. The "a" ch
 ![image](https://github.com/TristanD0703/Texchers/assets/111524307/bef78d6a-2fda-45ff-a9ed-7790ce52ab08)
 
 __To move a piece:__
-1. Enter the letter and number combination of the piece. Lines from top - bottom are listed A-B, and left - right are listed 1-8
+1. Enter the letter and number combination of the piece. Lines from top - bottom are listed A-F, and left - right are listed 1-8
 2. Enter the letter and number combination of the tile you want to move the piece
 
 If you're able to, you can capture a piece by jumping over the enemy piece.
